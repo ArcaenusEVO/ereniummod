@@ -17,8 +17,6 @@ Expect slow updates (I'm learning), but something significant because this is st
 
 ~~Very likely to be its own texture mod~~ Is its own texture mod!
 
-[WORKING ON IT]
-
 items: https://github.com/Evolutionx304/arcaitemresprites
 
 blocks:N/A
@@ -34,15 +32,5 @@ units: N/A
 * Create a useable set of blocks under the Erenium and Tyrancrinominite sets
 * Add a separate campaign set after Serpulo (Interplanetary Accelerator substitute)
 
-## CREDITS:
-Arcaenus/Daizo/Evolution (ALL ONE PERSON)
-
-## Stars? I guess not.
-
-<a href="https://www.star-history.com/?repos=ereniummod%2Fereniummod&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ereniummod/ereniummod&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ereniummod/ereniummod&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ereniummod/ereniummod&type=date&legend=top-left" />
- </picture>
-</a>
+## CREDITS TO ME!!!!
+(Arcaenus)
