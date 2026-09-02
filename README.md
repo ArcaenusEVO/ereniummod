@@ -17,8 +17,12 @@ Expect slow updates (I'm learning), but something significant because this is st
 
 ~~Very likely to be its own texture mod~~ Is its own texture mod!
 
+[WORKING ON IT]
+
 items: https://github.com/Evolutionx304/arcaitemresprites
+
 blocks:N/A
+
 units: N/A
 
 - Revamp vanilla and mod item textures to follow a consistent and realistic set of colors and structure
