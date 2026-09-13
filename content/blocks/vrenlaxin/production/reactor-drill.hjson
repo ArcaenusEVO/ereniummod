@@ -1,14 +1,11 @@
-internalName: reactor-drill
 localizedName: Reactor Drill
-description: Special drill self-powered by an internal erenium reactor. Slow, but can drill through very high tier ores. Optionally boosted by cryofluid and power. Requires water and erenium to run.
+description: Special drill self-powered by an internal erenium reactor. Requires water and erenium to run.
 size: 3
 tier: 6
 hardnessDrillMultiplier: 6
 liquidBoostIntensity: 1.2
 type: Drill
 category: production
-hidden: false
-buildable: true
 drillTime: 240
 warmupSpeed: 0.15
 rotateSpeed: 0.5
@@ -25,21 +22,16 @@ requirements: [
   titanium/20
 ]
 consumes: {
-    power: {
-      power: 1
-      optional: true
-      booster: true
-    },
     liquid: {
       liquid: cryofluid
-      amount: 0.1
+      amount: 0.06666667
       optional: true
       booster: true
     }
     liquids: [
-      water/0.0333333
+      water/0.03333334
     ]
     items: [
-      erenium/0.5
+      erenium/1
     ]
 }
