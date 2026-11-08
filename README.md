@@ -17,7 +17,8 @@ Expect slow updates (I'm learning), but something significant because this is st
 
 ~~Very likely to be its own texture mod~~ Is its own texture mod!
 
-items: https://github.com/Evolutionx304/arcaitemresprites
+items: https://github.com/ArcaenusEVO/arcaitemresprites
+If you want the items only here it is!
 
 blocks:N/A
 
